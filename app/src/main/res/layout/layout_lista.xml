@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llFundoLista"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#edd"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="190dp"
+        android:layout_height="110dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textDia"
+            android:textStyle="bold"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvListaDia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dia"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textExercicio"
+            android:textStyle="bold"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvListaExercicio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Exercicio"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="222dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textSerie"
+            android:textStyle="bold"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvListaSeries"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Série"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/textRepeticao"
+            android:textStyle="bold"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/tvListaRepeticao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Repetições"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

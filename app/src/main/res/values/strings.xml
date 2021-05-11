@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lista de Treino</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Translating -->
+    <string name="textExercicio">Exercício</string>
+    <string name="textDia">Dia</string>
+    <string name="textSerie">Séries</string>
+    <string name="textRepeticao">Repetições</string>
+
+    <string name="textHintExercicio">Nome do Exercício</string>
+    <string name="textHintRepeticao">Nº Repetições</string>
+    <string name="textHintSerie">Nº Séries</string>
+    <string name="textBtn">Salvar</string>
+    <string name="textSim">Sim</string>
+    <string name="textCancelar">Cancelar</string>
+
+
+
+
+    <string-array name="arraySemana">
+        <item>Selecione...</item>
+        <item>Segunda-Feira</item>
+        <item>Terça-Feira</item>
+        <item>Quarta-Feira</item>
+        <item>Quinta-Feira</item>
+        <item>Sexta-Feira</item>
+        <item>Sábado</item>
+    </string-array>
+
+    <string name="txtAtencao">Atenção</string>
+    <string name="textConfirma">Confirma a exclusão do treino?</string>
+</resources>

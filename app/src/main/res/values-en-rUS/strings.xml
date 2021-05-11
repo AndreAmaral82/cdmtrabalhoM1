@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Training List</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Translating -->
+    <string name="textExercicio">Exercise</string>
+    <string name="textDia">Day</string>
+    <string name="textSerie">Series</string>
+    <string name="textRepeticao">Repetitions</string>
+
+    <string name="textHintExercicio">Name of Exercise</string>
+    <string name="textHintRepeticao">Nº of repetition</string>
+    <string name="textHintSerie">Nº of serie</string>
+    <string name="textBtn">Save</string>
+    <string name="textSim">Yes</string>
+    <string name="textCancelar">Cancel</string>
+
+    <string-array name="arraySemana">
+        <item>Select...</item>
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string name="txtAtencao">Warn</string>
+    <string name="textConfirma">Confirm exclusion of training?</string>
+</resources>
